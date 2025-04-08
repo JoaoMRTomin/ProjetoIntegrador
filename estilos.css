@@ -1,0 +1,56 @@
+.caixa-bordas-redondas {
+    border: 1px solid rgb(136, 202, 95);
+    padding: 25px;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(136, 202, 95);
+}
+
+.destaque {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+.box-wireframe {
+    border: 2px dashed #1e88e5;
+    padding: 20px;
+    margin: 15px 0;
+}
+
+.icone {
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+body {
+    font-family: sans-serif, Arial, Helvetica;
+    font-size: 1.5em;
+    background-color: #ffffff;
+}
+
+
+.estrutura {
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid #ffffff;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.exemplowireframe {
+      width: 750px;
+      height: 400px;
+    }
+
+.exemplowireframe2 {
+    width: 750px;
+    height: 400px;
+}
+  
+.header{
+    background-color: rgb(187, 255, 249);
+}
